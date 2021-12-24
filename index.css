@@ -1,0 +1,55 @@
+*{
+    text-decoration: none;
+    margin: none;
+    padding: none;
+}
+.card{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+.canva{
+    width:4.5in;
+    height:2in ;
+    background-color: rgb(163, 157, 157);
+}
+.avater{
+    position: relative;
+    left: 2%;
+    margin-top: 2%;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border: 2px solid #1af;
+}
+.text1{
+    color: white;
+    position: relative;
+    left:28%;
+    margin-top:5%;
+    top: -50%;
+}
+.tittle{
+    margin-top: -20px;
+}
+.icon{
+    display: flex;
+    position: relative;
+    margin-top: -22%;
+    left: 4%;
+    text-decoration: none;
+}
+.logo{
+    font-size: 20px;
+    padding:5px;
+    color:#ddd;
+}
+.text2{
+    position: relative;
+    color: #ddd;
+    left:28%;
+    top: 10%;   
+}
